@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-contactformchallenge-dev-12859-authRole",
+      "UnauthRoleArn": "arn:aws:iam::471112618232:role/amplify-contactformchallenge-dev-12859-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::471112618232:role/amplify-contactformchallenge-dev-12859-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-contactformchallenge-dev-12859-deployment",
+      "UnauthRoleName": "amplify-contactformchallenge-dev-12859-unauthRole",
+      "StackName": "amplify-contactformchallenge-dev-12859",
+      "StackId": "arn:aws:cloudformation:eu-west-3:471112618232:stack/amplify-contactformchallenge-dev-12859/130b1670-3d4b-11ef-8da0-06e26e1895db",
+      "AmplifyAppId": "d3bidumk76e7js"
+    }
+  }
+}

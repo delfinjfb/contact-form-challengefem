@@ -39,7 +39,8 @@ export default function Index() {
             href="https://remix.run/docs"
             rel="noreferrer"
           >
-            Remix Docs
+            Remix Docs<br />
+            Delfino
           </a>
         </li>
       </ul>
